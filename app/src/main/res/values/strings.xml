@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreenPulse_04</string>
+    <string name="temperature_c" />
+    <string name="weather_description" />
+    <string name="fetch_weather" />
+    <string name="task_title" />
+    <string name="done">Done</string>
+</resources>
